@@ -1,0 +1,44 @@
+body{
+    background-image: url(/images/swing.jpg);
+
+}
+h1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+  
+}
+p{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: small; 
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-color: black;
+
+}
+.message{
+ background-color: rgba(0, 0, 0, .5); 
+ display: block;  
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 50%;
+ width: 50%;
+}
+.text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+p2{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 50%;
+    margin-top: 20px;
+    font-size: larger;
+}
+
